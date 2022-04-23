@@ -8,7 +8,11 @@ The training data set contains 87,000 images which are 200x200 pixels. There are
 which 26 are for the letters A-Z and 3 classes for SPACE, DELETE and NOTHING.
 These 3 classes are very helpful in real-time applications, and classification.
 The test data set contains a mere 29 images, to encourage the use of real-world test images.
+
 Dataset link : https://archive.ics.uci.edu/ml/datasets/congressional+voting+records
+
 • Train 3 different classifiers to classify the 29 classes [You can use sklearn].
+
 • Use different input for training (RGB , GREY Binary)
+
 • Report Precision & recall for each experiment.
